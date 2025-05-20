@@ -1,5 +1,9 @@
 ## 📄 CV Reviewer & ✉️ Cover Letter Generator
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm52d2tsNWdsMncyNjdzMGF2eG5lYWo3d3Z6OHV1MG1udXFtNnMyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjnevZHF4kPi96vo3X/giphy.gif"  />
+</div>
+
 An AI-powered web app built with **Streamlit** that analyzes uploaded CVs and helps you generate **professional cover letters** tailored to specific job roles. This tool is perfect for job seekers who want quick, smart feedback and personalized application materials.
 
 ## 🚀 Features
