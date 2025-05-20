@@ -1,4 +1,4 @@
-streamlit==1.33.0
-transformers==4.40.1
-torch>=2.1.0
-sentencepiece
+OPENAI_API_KEY=AIzaSyBmc5eTQeNFoYbtlAtQr4owXN4xAOW8MZQ
+HUGGINGFACE_TOKEN=hf_gfjsedbnskkdhjhrksf34899314873
+
+
